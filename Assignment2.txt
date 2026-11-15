@@ -1,0 +1,4 @@
+Name: Sameer Shoaib, Roll No: 2630117
+Today I learned about Git and GitHub.
+
+Git workflow: make changes, stage them with git add, save them with git commit, and upload them with git push.

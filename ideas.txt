@@ -1,0 +1,6 @@
+Ideas for using Git
+
+1. Keep coursework files organized in one repository.
+2. Commit after completing a meaningful change.
+3. Use clear commit messages so the history is easy to understand.
+4. Push regularly to keep an online backup.
