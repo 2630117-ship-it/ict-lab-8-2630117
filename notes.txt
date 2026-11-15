@@ -1,0 +1,10 @@
+Git basics
+
+- git status: check the working tree
+- git add <file>: stage a file
+- git commit -m "message": save a snapshot
+- git push origin main: upload commits to GitHub
+- git log --oneline: view commit history
+
+A repository stores project files and their version history.
+The staging area holds selected changes before a commit.

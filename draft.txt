@@ -1,0 +1,3 @@
+Draft file for ICT Lab Assignment 2.
+
+Git helps track changes in project files over time.
